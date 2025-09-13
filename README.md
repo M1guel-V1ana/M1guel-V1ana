@@ -1,4 +1,4 @@
-## Miguel Ângelo 
+## olá, eu sou Miguel Ângelo 
 - 📜 Técnico em Redes de computadores 
 - 🖥️ Graduando em Redes de Computadores 
 - 📖 Estudando Python e programação
