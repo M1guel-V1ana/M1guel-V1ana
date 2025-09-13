@@ -1,7 +1,6 @@
 ## olá, eu sou Miguel Ângelo 
 - 📜 Técnico em Redes de computadores 
 - 🖥️ Graduando em Redes de Computadores 
-- 📖 Estudando Python e programação
 ## idiomas: 
 - ![Brazil](https://flagcdn.com/w20/br.png) / ![Espanha](https://flagcdn.com/w20/es.png)
 ##
