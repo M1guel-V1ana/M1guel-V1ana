@@ -11,7 +11,13 @@
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1guel-V1ana&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
  <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M1guel-V1ana/M1guel-V1ana/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M1guel-V1ana/M1guel-V1ana/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/M1guel-V1ana/M1guel-V1ana/output/github-contribution-grid-snake.svg">
+</picture>
+  
+    
   ## Contatos:
  <div> 
   <a href="https://instagram.com/_miguelvianna" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
