@@ -10,7 +10,7 @@
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1guel-V1ana&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
     
-  ## Tecnológias:  
+  ## Ferramentas:  
   <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 <picture align="center">
