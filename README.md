@@ -11,10 +11,9 @@
 </div>
     
   ## Ferramentas:  
-  <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="center" alt = "Miguel-Linux" height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  
-  <img align="center" alt = "Miguel-Pycharm" height="30" whidth="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" id="N8n--Streamline-Simple-Icons" height="24" width="24">
+  <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  <img align="center" alt = "Miguel-Linux" height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />   <img align="center" alt = "Miguel-Pycharm" height="30" whidth="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+  
+
           
 
 <picture align="center">
