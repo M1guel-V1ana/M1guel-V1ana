@@ -9,9 +9,17 @@
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=M1guel-V1ana&show_icons=true&theme=cobalt&include_all_commites=true&count_private=true"
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1guel-V1ana&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
-    
+    align="center" alt="Miguel-Python" height="30" width="40" 
   ## Ferramentas:  
-  <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  <img align="center" alt = "Miguel-Linux" height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />   <img align="center" alt = "Miguel-Pycharm" height="30" whidth="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+    
+  <img align="center" alt="Miguel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />   
+            <img  align="center" alt="Miguel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  
+            <img align="center" alt="Miguel-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+          
+          
+          
+  
+<img align="center" alt = "Miguel-Pycharm" height="30" whidth="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
   
 
           
