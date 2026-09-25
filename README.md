@@ -144,19 +144,6 @@ automatizado com integração de serviços de IA.
 - 🇧🇷 Português
 - 🇪🇸 Espanhol
 
----
-
-## 📊 GitHub
-
-<div>
-  <a href="https://github.com/M1guel-V1ana">
-    <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=M1guel-V1ana&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-
-    <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1guel-V1ana&layout=compact&langs_count=8&theme=cobalt"/>
-  </a>
-</div>
 
 ---
 
