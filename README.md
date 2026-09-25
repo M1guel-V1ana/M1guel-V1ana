@@ -183,9 +183,23 @@ automatizado com integração de serviços de IA.
     srcset="https://raw.githubusercontent.com/M1guel-V1ana/M1guel-V1ana/output/github-contribution-grid-snake-dark.svg"
   >
 
+---
+
+## 🐍 Minhas contribuições
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/M1guel-V1ana/M1guel-V1ana/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/M1guel-V1ana/M1guel-V1ana/output/github-contribution-grid-snake.svg"
+  />
+
   <img
-    align="center"
-    alt="github contribution grid snake animation"
+    alt="Animação da cobrinha percorrendo minhas contribuições do GitHub"
     src="https://raw.githubusercontent.com/M1guel-V1ana/M1guel-V1ana/output/github-contribution-grid-snake.svg"
-  >
+  />
 </picture>
