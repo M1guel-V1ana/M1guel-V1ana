@@ -1,35 +1,47 @@
-## olá, eu sou Miguel Ângelo 
-- 📜 Técnico em Redes de computadores 
-- 🖥️ Graduando em Sistemas de informação 
-## idiomas: 
-- ![Brazil](https://flagcdn.com/w20/br.png) / ![Espanha](https://flagcdn.com/w20/es.png)
-##
-<div>
-  <a href="https://github.com/M1guel-V1ana">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=M1guel-V1ana&show_icons=true&theme=cobalt&include_all_commites=true&count_private=true"
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1guel-V1ana&layout=compact&langs_count=16&theme=cobalt"/>
-</div>
+# Olá, eu sou Miguel Ângelo 👋
 
-    
-  ## Ferramentas:  
-    
-  <img align="center" alt="Miguel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />   
-            <img  align="center" alt="Miguel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  
-            <img align="center" alt="Miguel-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-  
+🎓 Graduando em Sistemas de Informação  
+📜 Técnico em Redes de Computadores  
 
-          
+Atualmente estou direcionando meus estudos para **Análise de Dados, QA e
+Suporte de TI**, buscando desenvolver meus conhecimentos através de
+projetos práticos e experiências acadêmicas.
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M1guel-V1ana/M1guel-V1ana/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M1guel-V1ana/M1guel-V1ana/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/M1guel-V1ana/M1guel-V1ana/output/github-contribution-grid-snake.svg">
-</picture>
-  
-    
-  ## Contatos:
- <div> 
-  <a href="https://instagram.com/_miguelvianna" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/miguel-viana-b911b7338" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
- </div>
+Gosto de aprender colocando os conhecimentos em prática e utilizando
+meus repositórios para registrar minha evolução.
+
+---
+
+## 🧭 Minha jornada
+
+📊 Análise de Dados
+
+Atualmente estou aprofundando meus conhecimentos em análise e
+tratamento de dados.
+
+Estou estudando
+🐍 Python
+🐼 Pandas
+🔢 NumPy
+🗄️ SQL
+📈 Estatística
+🧹 Limpeza e tratamento de dados
+🔄 ETL
+📊 Exploração e visualização de dados
+
+
+🧪 QA e Qualidade de Software
+
+Também estou desenvolvendo conhecimentos relacionados à qualidade
+de software e processos de desenvolvimento.
+
+Estudando
+Testes funcionais
+Casos de teste
+Identificação e documentação de bugs
+Testes manuais
+Fundamentos de QA
+Scrum
+Kanban
+
 
