@@ -89,7 +89,7 @@ automatizado com integração de serviços de IA.
 - Automação de respostas
 - Tratamento e normalização de informações
 
-🔗 [Ver repositório]((https://github.com/M1guel-V1ana/aprendendo-automa-o)
+🔗 [Ver repositório](https://github.com/M1guel-V1ana/aprendendo-automa-o)
 
 ---
 
