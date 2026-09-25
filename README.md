@@ -194,7 +194,7 @@ automatizado com integração de serviços de IA.
   />
 
   <source
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/M1guel-V1ana/M1guel-V1ana/output/github-contribution-grid-snake.svg"
   />
 
